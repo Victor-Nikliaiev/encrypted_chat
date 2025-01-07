@@ -1,0 +1,7 @@
+Run server with command: python server.py 0.0.0.0 
+to make it visible through the local network
+
+Don't forget to open the port 1060 on the server
+
+Run client with command: python client.py <local server ip> from other pc in network
+or: python client.py 0.0.0.0 from the same pc as the server
